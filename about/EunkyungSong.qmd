@@ -1,0 +1,31 @@
+---
+title: "Eunkyung Song"
+image: images/YourName.jpeg
+about:
+  template: solana
+  image-width: 15em
+  image-shape: round
+  image: images/YourName.jpeg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/github_user
+---
+
+
+## Education/Work Background
+PhD. Rutgers University
+
+## R experience
+
+
+## Research interests
+
+
+## Hometown
+
+
+## Hobbies
+
+
+## Fun fact

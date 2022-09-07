@@ -1,5 +1,5 @@
 ---
-title: "DACSS [Course Number] [Course Name] [term]"
+title: "DACSS 697D Text-as-Data Fall22"
 listing:
   contents: posts
   sort: "date desc"
@@ -7,9 +7,4 @@ listing:
   categories: true
 ---
 
-Write the description about the course bog here......
-
-
-example: The blog posts here are contributed by students enrolled in DACSS 601, Fundamentals of Data Science. The course provides students with an introduction to R and the tidyverse, scientific publishing, and collaboration through GitHub, building a foundation for future coursework. Students also are introduced to general data management and data wrangling skills, with an emphasis on best practice workflows and tidy data management.
-
-You can remove the example after adding the title and the course description
+Hello and welcome to the course blog for Text-as-Data (DACSS 697D). In this course, students learn the fundamentals of text-as-data research, with an introduction to the field and broader theoretical considerations followed by an exploration of a host of different methodological approaches and applications using text-as-data. The focus is on exploration, with students — motivated by central research questions — exploring the opportunities, challenges, and limitations of different approaches.
