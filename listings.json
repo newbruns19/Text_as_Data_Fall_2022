@@ -1,0 +1,14 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/PostTemplate_fakesolutions.html"
+    ]
+  },
+  {
+    "listing": "/about.html",
+    "items": [
+      "/about/about.html"
+    ]
+  }
+]
